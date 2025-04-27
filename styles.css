@@ -40,7 +40,7 @@ body {
 .dropdown-btn {
     color: white;
     background-color: #333;
-
+    font-size: 15px;
     padding: 10px;
     border: none;
     cursor: pointer;
